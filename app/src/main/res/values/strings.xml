@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout4</string>
+    <string name="button1">Async</string>
+    <string name="button2">Picasso</string>
+    <string name="button3">Glide</string>
+</resources>
